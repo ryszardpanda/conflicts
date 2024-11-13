@@ -2,7 +2,7 @@ package src;
 
 public class Clacccc {
 
-    public int add(int a, int b) {
+    public int ad(int a, int b) {
         return a + b;
     }
 
