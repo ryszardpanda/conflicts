@@ -1,7 +1,7 @@
 package src;
 
 public class CalcClass {
-    public int multiply(int a, int b) {
+    public int multi(int a, int b) {
         return a * b;
     }
 
