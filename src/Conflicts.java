@@ -2,7 +2,7 @@ package src;
 
 public class Conflicts {
     public static void main(String[] args) {
-        CalcClass calcClass = new CalcClass();
+        CalcClasssssss calcClass = new CalcClasssssss();
         CalcClassSecond calcClassSecond = new CalcClassSecond();
 
         int add = calcClass.add(1, 1);
@@ -11,7 +11,7 @@ public class Conflicts {
         System.out.println(add);
         System.out.println(minus);
 
-        System.out.println(calcClassSecond.multiply(2, 4));
+        System.out.println(calcClassSecond.multiplyyyy(2, 4));
         System.out.println(calcClassSecond.divide(5, 5));
     }
 }
