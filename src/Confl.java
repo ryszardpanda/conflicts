@@ -1,6 +1,6 @@
 package src;
 
-public class Conflicts {
+public class Confl {
     public static void main(String[] args) {
         Clacccc calcClass = new Clacccc();
         CalcClass calcClassSecond = new CalcClass();
