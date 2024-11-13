@@ -11,7 +11,7 @@ public class Conflicts {
         System.out.println(add);
         System.out.println(minus);
 
-        System.out.println(calcClassSecond.multiply(3, 4));
+        System.out.println(calcClassSecond.multiply(6, 4));
         System.out.println(calcClassSecond.divide(5, 5));
     }
 }
