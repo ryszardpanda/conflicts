@@ -1,6 +1,6 @@
 package src;
 
-public class CalcClassSecond {
+public class CalcClassNew {
     public int multiply(int a, int b) {
         return a * b;
     }
