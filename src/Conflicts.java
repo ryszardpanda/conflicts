@@ -2,8 +2,8 @@ package src;
 
 public class Conflicts {
     public static void main(String[] args) {
-        CalcClass calcClass = new CalcClass();
-        CalcClassSecond calcClassSecond = new CalcClassSecond();
+        Clacccc calcClass = new Clacccc();
+        CalcClass calcClassSecond = new CalcClass();
 
         int add = calcClass.add(1, 1);
         int minus = calcClass.minus(1, 1);
