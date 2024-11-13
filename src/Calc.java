@@ -2,7 +2,7 @@ package src;
 
 public class Calc {
 
-    public int add(int a, int b) {
+    public int adding(int a, int b) {
         return a - b;
     }
 
