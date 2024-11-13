@@ -5,7 +5,7 @@ public class Conflicts {
         CalcClasssssss calcClass = new CalcClasssssss();
         CalcClassSecond calcClassSecond = new CalcClassSecond();
 
-        int add = calcClass.add(1, 1);
+        int add = calcClass.add(1, 4);
         int minus = calcClass.minus(1, 1);
 
         System.out.println(add);
